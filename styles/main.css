@@ -136,7 +136,7 @@ header button {
 }
 
 .main_picture{
-  background-image: url('../assets/images/main_picture.jpg');
+  background-image: url('../assets/images/main_bg.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   width: 100%;
